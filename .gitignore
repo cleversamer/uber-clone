@@ -53,7 +53,3 @@ yarn-error.log
 .expo/
 web-build/
 dist/
-
-# bundles
-android/
-ios/
